@@ -1,5 +1,7 @@
+// CONTADOR DE VOCALES
+
 // Este ejercicio consta en mostrar la cantidad de vocales que contiene un string.
-// En este caso pondremos directamente el string en la constante text
+// En este caso pondremos directamente el string en la constante text.
 
 // Creamos nuestras variables
 const text = 'Hola, soy el string de prueba';
